@@ -7,7 +7,7 @@ DijkstraTest::DijkstraTest(QObject *parent, vector<Ort*> list)
 }
 
 void DijkstraTest::import() {
-    ifstream input("nav.csv");
+    ifstream input("../build/nav.csv");
     if(!input){
         return;
     }
