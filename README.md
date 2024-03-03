@@ -56,6 +56,6 @@ cd build
 ```
 
 ## Contact
-Dinh The Huy
+Dinh The Huy. E-mail: dinhthehuy51@gmail.com
 
 Project's link: https://github.com/dinhthehuy/Navigationssystem
