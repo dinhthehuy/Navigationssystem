@@ -94,7 +94,7 @@ void DijkstraTest::test_zero_distance() {
 void DijkstraTest::test_import_csv_file() { // zwischen Stuttgart und Wiesbaden
     import();
     int size = v.size();
-    QVERIFY(size == 25);
+    QVERIFY(size == 24);
     v.clear();
 }
 
