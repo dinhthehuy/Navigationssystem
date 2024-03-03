@@ -1,4 +1,5 @@
 # Mini Navigationssystem
+[![de](https://img.shields.io/badge/lang-de-green.svg)](./README.md)
 [![en](https://img.shields.io/badge/lang-en-yellow.svg)](./README.md)
 
 ## Überblick
@@ -53,10 +54,6 @@ cd build
 ```
 ./Navi
 ```
-
-## Verwendung
-
-
 
 ## Kontakt
 Dinh The Huy
