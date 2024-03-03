@@ -1,8 +1,8 @@
-# Navigationssystem
-## Über das Projekt
-Beschreibung:
+# Mini Navigationssystem
+## Überblick
+Das "Mini Navigationssystem" ist eine benutzerfreundliche GUI-Anwendung, die in C++ entwickelt wurde, und dient, um die beste Route innerhalb Deutschland herauszufinden. Mit einer intuitiven und einfachen Benutzeroberfläche können Benutzer benutzerdefinierte Orte hinzuzufügen, bereits importierte Städte verwenden, Verbindungen zwischen ihnen herstellen und dynamisch Routen für die Navigation generieren.
 
-
+### Screenshots
 
 ## Erste Schritte
 Diese Anleitung hilft dir, eine Kopie des Projekts auf deinem lokalen Rechner einzurichten und für Entwicklungs- und Testzwecke zu nutzen.
@@ -37,7 +37,7 @@ make
 
 
 
-### Verwendung
+### Build
 1. Navigiere zum Build-Verzeichnis:
 ```
 cd build
@@ -47,9 +47,10 @@ cd build
 ./Navi
 ```
 
+## Verwendung
 
 
-## Contact
+
+## Kontakt
 Dinh The Huy
-
 Projekt Link: https://github.com/dinhthehuy/Navigationssystem
