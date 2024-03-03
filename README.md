@@ -5,6 +5,9 @@ Das "Mini Navigationssystem" ist eine benutzerfreundliche GUI-Anwendung, die in 
 Mit einer intuitiven und einfachen Benutzeroberfläche können Benutzer benutzerdefinierte Orte hinzuzufügen, bereits importierte Städte verwenden, Verbindungen zwischen ihnen herstellen und dynamisch Routen für die Navigation generieren.
 
 ### Screenshots
+![Main Menu](./images/main_menu.png)
+
+![Route_example](./images/route_example.png)
 
 ## Erste Schritte
 Diese Anleitung hilft dir, eine Kopie des Projekts auf deinem lokalen Rechner einzurichten und für Entwicklungs- und Testzwecke zu nutzen.
