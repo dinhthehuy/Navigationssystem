@@ -170,6 +170,7 @@ void Karte::Routing()
                     string str = "";
                     double gesamt = 0;
                     QDialog *dialog = new QDialog();
+                    dialog->setWindowTitle("Route");
 
                     QLabel *label = new QLabel(dialog);
 
