@@ -1,5 +1,5 @@
 # Mini Navigationssystem
-[![de](https://img.shields.io/badge/lang-de-green.svg)](./README.de.md)
+[![en](https://img.shields.io/badge/lang-en-yellow.svg)](./README.md)
 
 ## Überblick
 Das "Mini Navigationssystem" ist eine benutzerfreundliche GUI-Anwendung, die in C++ entwickelt wurde, und dient, um die beste Route innerhalb Deutschland herauszufinden. 
