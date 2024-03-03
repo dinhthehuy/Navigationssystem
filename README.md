@@ -1,43 +1,44 @@
 # Mini Navigationssystem
+[![en](https://img.shields.io/badge/lang-de-yellow.svg)](./README.md)
 [![de](https://img.shields.io/badge/lang-de-green.svg)](./README.de.md)
 
-## Überblick
-Das "Mini Navigationssystem" ist eine benutzerfreundliche GUI-Anwendung, die in C++ entwickelt wurde, und dient, um die beste Route innerhalb Deutschland herauszufinden. 
+## Overview
+"Mini Navigationssystem" is a user-friendly GUI application developed in C++, designed to find the best route within Germany.
 
-Mit einer intuitiven und einfachen Benutzeroberfläche können Benutzer benutzerdefinierte Orte hinzuzufügen, bereits importierte Städte verwenden, Verbindungen zwischen ihnen herstellen und dynamisch Routen für die Navigation generieren.
+With an intuitive and simple user interface, users can add custom locations, use already imported cities, establish connections between them, and dynamically generate routes for navigation."
 
 ### Screenshots
 ![Main Menu](./images/main_menu.png)
 
 ![Route_example](./images/route_example.png)
 
-## Erste Schritte
-Diese Anleitung hilft dir, eine Kopie des Projekts auf deinem lokalen Rechner einzurichten und für Entwicklungs- und Testzwecke zu nutzen.
+## Getting Started
+This guide helps you set up a copy of the project on your local machine and use it for development and testing purposes.
 
 
 
 
-### Voraussetzungen
-* Qt (Version 5.15.3 oder höher)
-* C++ Compiler (wie g++ oder MSVC)
-* QMake (Version 3.1, üblicherweise im Qt-Paket enthalten)
+### Prerequsites
+* Qt (Version 5.15.3 or higher)
+* C++ Compiler (g++)
+* QMake (Version 3.1 or higher)
 
 
 
 ### Installation
-1. Klone das Repository auf deinem lokalen Rechner:
+1. Clone the repository to your local machine:
 ```
 git clone https://github.com/deinbenutzername/projekt-name.git
 ```
-2. Wechsle in das Projektverzeichnis:
+2. Navigate to the project directory:
 ```
 cd app
 ```
-3. Führe QMake aus, um die Makefile zu generieren:
+3. Execute QMake to generate Makefile:
 ```
 qmake Navi.pro
 ```
-4. Baue das Projekt mit deinem Compiler:
+4. Build the project with your Compiler:
 ```
 make
 ```
@@ -45,19 +46,15 @@ make
 
 
 ### Build
-1. Navigiere zum Build-Verzeichnis:
+1. Navigate to Build directory:
 ```
 cd build
 ```
-2. Starte die ausführbare Datei:
+2. Run the executable file:
 ```
 ./Navi
 ```
 
-## Verwendung
-
-
-
-## Kontakt
+## Contact
 Dinh The Huy
-Projekt Link: https://github.com/dinhthehuy/Navigationssystem
+Project's link: https://github.com/dinhthehuy/Navigationssystem
