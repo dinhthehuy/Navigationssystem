@@ -1,5 +1,5 @@
 # Mini Navigationssystem
-[![en](https://img.shields.io/badge/lang-de-yellow.svg)](./README.md)
+[![en](https://img.shields.io/badge/lang-en-yellow.svg)](./README.md)
 [![de](https://img.shields.io/badge/lang-de-green.svg)](./README.de.md)
 
 ## Overview
