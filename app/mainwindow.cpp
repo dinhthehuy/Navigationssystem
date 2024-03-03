@@ -29,7 +29,7 @@ void MainWindow::karte() {
 
 void MainWindow::csvExport()
 {
-    ofstream output ("nav.csv");
+    ofstream output ("../build/nav.csv");
     if(!output) {
         ui->labelStatusValue->setText( QString::fromStdString("Fehler beim Oeffnen der Datei!"));
         return;
@@ -55,7 +55,7 @@ void MainWindow::csvExport()
 
 void MainWindow::csvImport()
 {
-    ifstream input("nav.csv");
+    ifstream input("../build/nav.csv");
     if(!input){
         ui->labelStatusValue->setText( QString::fromStdString("Fehler beim Oeffnen der Datei!"));
         return;

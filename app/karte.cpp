@@ -214,7 +214,7 @@ void Karte::verbinden(Ort *o1, Ort *o2)
 void Karte::Laden_Clicked()
 {
     if(radioButtonsList.isEmpty()) {
-        ifstream input("nav.csv");
+        ifstream input("../build/nav.csv");
         if(!input){
             return;
         }
@@ -316,7 +316,7 @@ void Karte::Verbinden_Clicked()
 
 void Karte::Speichern_Clicked()
 {
-    ofstream output ("nav.csv");
+    ofstream output ("../build/nav.csv");
     if(!output){
         return;
     }
